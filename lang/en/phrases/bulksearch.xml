@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="no" ?>
+<!DOCTYPE phrases SYSTEM "entities.dtd">
+
+<epp:phrases xmlns="http://www.w3.org/1999/xhtml" xmlns:epp="http://eprints.org/ep3/phrase">
+  <epp:phrase id="Plugin/Screen/Staff/EPrintBulkSearch:title">EPrint Bulk Search</epp:phrase>
+  <epp:phrase id="Plugin/Screen/Staff/EPrintBulkSearch:description">Enter a set of EPrintIDs on which to perform bulk operations.</epp:phrase>
+  <epp:phrase id="Plugin/Screen/Staff/EPrintBulkSearch:preamble"><div>Enter a set of EPrintIDs, those found will be returned as search results.<br/>
+You can then view or operate upon these in a standard way.<br/>
+IDs can be space, comma, or line separated.</div></epp:phrase>
+</epp:phrases>
